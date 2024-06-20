@@ -14,7 +14,9 @@ Zika is bad for you.
 ```auspiceMainDisplayMarkdown
 
 
-It has spread throughout the world and caused signficant morbidity.
+It has spread throughout the world and caused signficant morbidity. :)
+
+
 ```
 
 
