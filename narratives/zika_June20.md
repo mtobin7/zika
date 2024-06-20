@@ -6,12 +6,13 @@ dataset: "https://nextstrain.org/community/mtobin7/zika"
 ---
 
 # [Introduction](https://nextstrain.org/community/mtobin7/zika)
+
 Let's learn about Zika
 Zika is bad for you.
 
 
 
-It has spread throughout the world and caused signficant morbidity.
+
 
 
 # [Singapore](https://nextstrain.org/community/mtobin7/zika?f_country=Singapore)
@@ -33,4 +34,4 @@ extra
 ```auspiceMainDisplayMarkdown
 
 
-
+It has spread throughout the world and caused signficant morbidity.
