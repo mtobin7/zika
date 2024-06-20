@@ -6,3 +6,4 @@ dataset: "https://nextstrain.org/community/mtobin7/zika"
 ---
 # [Singapore](https://nextstrain.org/community/mtobin7/zika?f_country=Singapore)
 # [United States Singapore](https://nextstrain.org/community/mtobin7/zika?f_country=Singapore,USA)
+# [Animation](https://nextstrain.org/community/mtobin7/zika?animate=2012-06-21,2016-11-04,0,0,30000&f_country=Singapore,USA,Brazil)
