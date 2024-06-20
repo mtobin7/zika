@@ -11,6 +11,11 @@ Let's learn about Zika
 Zika is bad for you.
 
 
+```auspiceMainDisplayMarkdown
+
+
+It has spread throughout the world and caused signficant morbidity.
+```
 
 
 
@@ -31,7 +36,3 @@ extra
 # [spread of Zika in Carribean and USA](https://nextstrain.org/community/mtobin7/zika?animate=2012-06-21,2016-11-04,0,0,30000&d=tree,map&f_country=Dominican%20Republic,Puerto%20Rico,USA&p=grid)
 
 
-```auspiceMainDisplayMarkdown
-
-
-It has spread throughout the world and caused signficant morbidity.
