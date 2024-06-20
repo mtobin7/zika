@@ -8,7 +8,9 @@ dataset: "https://nextstrain.org/community/mtobin7/zika"
 # [Introduction](https://nextstrain.org/community/mtobin7/zika)
 
 Let's learn about Zika
-Zika is bad for you.
+
+
+Zika is a devestating disease.
 
 
 ```auspiceMainDisplayMarkdown
