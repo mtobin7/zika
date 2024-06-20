@@ -19,7 +19,7 @@ It has spread throughout the world and caused signficant morbidity. :)
 
 <img  src="https://github.com/mtobin7/zika/blob/main/figures/Capture.PNG?raw=true" alt="virus" width="" />
 
-
+https://www.vox.com/2016/1/20/10795562/zika-virus-cdc-mosquitoes-birth-defects
 ```
 
 
